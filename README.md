@@ -1,17 +1,5 @@
 # Pico-Temperature-LCD
 
-
-
-Skip to content
-Using Gmail with screen readers
-1 of 1,526
-3/27
-Inbox
-
-n46130 <n46130@gmail.com>
-4:26 PM (1 hour ago)
-to me
-
 #Temperature_adc.py
 from math import ceil
 import machine
