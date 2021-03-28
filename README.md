@@ -1,5 +1,15 @@
 # Pico-Temperature-LCD
 
+
+
+
+
+
+
+
+
+
+
 #Temperature_adc.py
 from math import ceil
 import machine
